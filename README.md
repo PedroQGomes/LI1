@@ -28,7 +28,7 @@ cabal install split
 ```
 
 
-## Compilar e Testar
+## Compilação e Testes
 
 Para compilar e gerar o executavel é usado o seguinte comando
 
